@@ -1,0 +1,12 @@
+{
+  "home": {
+    "listen": "Escucha la mejor música!"
+  },
+  "register": {
+    "TOS": "Términos del servicio",
+    "accept": "Yo acepto Music's {0}"
+  },
+  "song": {
+    "comment_count": "No comentarios | 1 Comentario | {count} Comentarios"
+  }
+}
