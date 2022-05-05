@@ -7,17 +7,17 @@
 <script>
 export default {
   created() {
-    this.$store.registerModule('about', {
-      namespaced: true,
-      state: {
-        message: 'Hello from about module',
-      },
-      mutations: {
-        setMessage(state, message) {
-          state.message = message;
-        },
-      },
-    });
+    // this.$store.registerModule('about', {
+    //   namespaced: true,
+    //   state: {
+    //     message: 'Hello from about module',
+    //   },
+    //   mutations: {
+    //     setMessage(state, message) {
+    //       state.message = message;
+    //     },
+    //   },
+    // });
   },
 };
 </script>
